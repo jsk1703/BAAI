@@ -1,6 +1,6 @@
 #
 # James, 2025/09/24
-# file: 0_template.py
+# File: 0_template.py
 # Short description of the task
 #
 
